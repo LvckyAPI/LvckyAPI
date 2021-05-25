@@ -9,4 +9,7 @@ Iven Schlenther / 14 / Magdeburg, Germany
 
 [![node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=java.js&logoColor=white&longCache=true&style=for-the-badge)](https://nodejs.org/de/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LvckyAPI&theme=radical)](https://github.com/LvckyAPI/github-readme-stats)
+
 [![stats](https://github-readme-stats.vercel.app/api?username=LvckyAPI&count_private=true&theme=tokyonight)](https://github.com/LvckyAPI)
