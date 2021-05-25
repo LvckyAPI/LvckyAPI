@@ -1,6 +1,6 @@
 # Hey, I'm Iven 👋
 
-Iven Schlenther / 17 / Magdebug, Germany
+Iven Schlenther / 17 / Magdeburg, Germany
 
 [![Java](https://img.shields.io/badge/-Java-ED7E18.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=c%2B%2B)
 [![C#](https://img.shields.io/badge/-Csharp-8351d0.svg?logo=C%2B%2B&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=c%2B%2B)
