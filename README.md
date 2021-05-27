@@ -3,6 +3,11 @@
 
 Iven Schlenther / Magdeburg, Germany
 
+## Friends
+[![IloveKOHL](https://img.shields.io/badge/-LukasILoveKOHL-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL)
+[![UhMarlon](https://img.shields.io/badge/-UhMarlon-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/uhmarlon)
+
+
 ## Languages
 [![Java](https://img.shields.io/badge/-Java-007396.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=javascript)
