@@ -25,7 +25,7 @@ Iven Schlenther / Magdeburg, Germany
 [![JetBrains](https://img.shields.io/badge/-JetBrains-000000.svg?logo=JetBrains&logoColor=white&longCache=true&style=for-the-badge)](https://www.jetbrains.com)
 
 
-## Security Soloutions
+## Security Solutions
 [![Bitdefender](https://img.shields.io/badge/-Bitdefender-ED1C24.svg?logo=Bitdefender&logoColor=white&longCache=true&style=for-the-badge)](https://www.bitdefender.de)
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white&longCache=true&style=for-the-badge)](https://cloudflare.com)
 
