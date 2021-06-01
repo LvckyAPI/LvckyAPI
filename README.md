@@ -45,5 +45,5 @@ Iven Schlenther / Magdeburg, Germany
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LvckyAPI&theme=tokyonight)](https://github.com/LvckyAPI/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LvckyAPI&theme=tokyonight)](https://github.com/LvckyAPI/)
 [![stats](https://github-readme-stats.vercel.app/api?username=LvckyAPI&count_private=true&theme=tokyonight)](https://github.com/LvckyAPI)
