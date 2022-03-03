@@ -14,7 +14,7 @@ Iven Schlenther / Magdeburg, Germany
 ## Social Media
 [![Mail](https://img.shields.io/badge/-Mail-E34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://iven.s@lvckyworld.net)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/466986428107063306)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/StossenHDYT)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/LvckyAPI)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000.svg?logo=youtube&logoColor=white&longCache=true&style=for-the-badge)](https://www.youtube.com/channel/UC40Vr_3QDGfy2ZPvtZij8sQ)
 
 ## Security Solutions
