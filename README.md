@@ -9,6 +9,7 @@ Iven Schlenther / Magdeburg, Germany
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=javascript)
 [![C#](https://img.shields.io/badge/-Csharp-239120.svg?logo=c-sharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=c%23)
 [![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=typescript)
+[![PhP](https://img.shields.io/badge/-php-848ebb.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=php)
 
 
 ## Social Media
