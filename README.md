@@ -26,5 +26,7 @@ Iven Schlenther / Magdeburg, Germany
 [![Telekom](https://img.shields.io/badge/-Telekom-E20074.svg?logo=t-mobile&logoColor=white&longCache=true&style=for-the-badge)](https://www.telekom.de/)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LvckyAPI&count_private=true&theme=tokyonight)](https://github.com/LvckyAPI/)
-[![stats](https://github-readme-stats.vercel.app/api?username=LvckyAPI&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/LvckyAPI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvckyapi&count_private=true&theme=tokyonight)](https://github.com/LvckyAPI/)
+[![stats](https://github-readme-stats.vercel.app/api?username=lvckyapi&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/LvckyAPI)
+[![stats2](https://github-readme-streak-stats.herokuapp.com/?user=lvckyapi&hide_border=true&theme=tokyonight)](https://github.com/LvckyAPI)
+
