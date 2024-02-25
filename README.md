@@ -1,8 +1,6 @@
 <div align=center>
 
 ![alt text](https://i.lvckyworld.net/lvcky/team/lvckyapi/github/lvckyapi-banner.png)
-  
-# About me  
 ### Hey, I'm Iven 👋  
 
 Iven Schlenther / Magdeburg, Germany  
