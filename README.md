@@ -1,6 +1,6 @@
 <div align=center>
 
-![alt text](https://i.lvckyworld.net/lvcky/team/lvckyapi/LvckyAPI.png)
+![alt text](https://i.lvckyworld.net/lvcky/team/lvckyapi/github/banner.png)
   
 # About me  
 ### Hey, I'm Iven 👋  
